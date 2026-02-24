@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "openPoeNode")(type "KiCad")(uri "C:/Users/Stefan.HCN/OneDrive - hardcoding.net/Projekte/KiCad/ESP32/openPoENode/Library/openPoENode.pretty")(options "")(descr ""))
+  (lib (name "Project")(type "KiCad")(uri "${KIPRJMOD}/Project.pretty")(options "")(descr ""))
+)
