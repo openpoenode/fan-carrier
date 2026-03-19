@@ -8209,7 +8209,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "P3T1750DP"
+		(property "Value" "LM75"
 			(at 237.0933 118.11 0)
 			(effects
 				(font
@@ -8227,7 +8227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "Data Sheets\\P3T1750DP.pdf"
+		(property "Datasheet" "Data Sheets\\LM75A.pdf"
 			(at 234.95 125.73 0)
 			(effects
 				(font
@@ -8245,7 +8245,7 @@
 				(hide yes)
 			)
 		)
-		(property "MOUSER#" "771-P3T1750DPZ"
+		(property "MOUSER#" "771-LM75ADP-T"
 			(at 234.95 125.73 0)
 			(effects
 				(font
