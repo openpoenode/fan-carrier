@@ -6058,6 +6058,15 @@
 				(hide yes)
 			)
 		)
+		(property "IDAnything" "8ed1d4gh3rhtcap5n3thrqzk0z"
+			(at 25.4 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc6c524b-5b7a-4ee1-96b3-5dacacc3dbd5")
 		)
@@ -6129,6 +6138,15 @@
 			)
 		)
 		(property "MOUSER#" "581-KGM21NR71H104KT"
+			(at 222.25 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IDAnything" "7306hr3vk0hr983c9yxsesf49q"
 			(at 222.25 115.57 0)
 			(effects
 				(font
@@ -6274,6 +6292,15 @@
 			)
 		)
 		(property "MOUSER#" "187-CL32B226KOJNNNE"
+			(at 62.23 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IDAnything" "5es6p5fr8rkjdahcs3x36hwzw2"
 			(at 62.23 132.08 0)
 			(effects
 				(font
@@ -6489,6 +6516,15 @@
 				(hide yes)
 			)
 		)
+		(property "IDAnything" "8qy9kfpz4rjz68060b2d6hntm0"
+			(at 33.02 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0319412-4dab-4f68-b851-b579543be555")
 		)
@@ -6633,6 +6669,15 @@
 				(hide yes)
 			)
 		)
+		(property "IDAnything" "e4khx4jva8k0wb08y4n5nr9g3p"
+			(at 93.98 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bfc7b3e0-4f7c-4632-ae38-694c80be3900")
 		)
@@ -6704,6 +6749,15 @@
 			)
 		)
 		(property "MOUSER#" "603-RC0805FR-7W10KL"
+			(at 238.76 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IDAnything" "ct46g33j3jkr389e4bd4v5859v"
 			(at 238.76 59.69 0)
 			(effects
 				(font
@@ -6987,6 +7041,15 @@
 				(hide yes)
 			)
 		)
+		(property "IDAnything" "ct46g33j3jkr389e4bd4v5859v"
+			(at 250.19 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f18a8fe0-76f0-47be-acd5-610456886854")
 		)
@@ -7057,6 +7120,15 @@
 			)
 		)
 		(property "MOUSER#" "621-AZ1117CH-3.3TRG1"
+			(at 44.45 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IDAnything" "3ykdfnd5ejg2s80rn0p5q546ag"
 			(at 44.45 125.73 0)
 			(effects
 				(font
@@ -7673,6 +7745,15 @@
 				(hide yes)
 			)
 		)
+		(property "IDAnything" "14hyke6qq4k53atdbe9b9c6sqr"
+			(at 252.73 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "c2aad801-ab1c-46d5-8dde-807cab1ee604")
 		)
@@ -7748,6 +7829,15 @@
 			)
 		)
 		(property "MOUSER#" "791-WR08X2700FTL"
+			(at 33.02 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IDAnything" "8qy9kfpz4rjz68060b2d6hntm0"
 			(at 33.02 76.2 0)
 			(effects
 				(font
@@ -7892,6 +7982,15 @@
 			)
 		)
 		(property "MOUSER#" "581-1206GC222KAT2A"
+			(at 154.94 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IDAnything" "cjbd17kqpcg079c1ae8a37wt8d"
 			(at 154.94 138.43 90)
 			(effects
 				(font
@@ -8111,6 +8210,15 @@
 				(hide yes)
 			)
 		)
+		(property "IDAnything" "ct46g33j3jkr389e4bd4v5859v"
+			(at 259.08 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81926743-bb34-437e-8dbd-1621538d7f8c")
 		)
@@ -8254,6 +8362,15 @@
 				(hide yes)
 			)
 		)
+		(property "IDAnything" "1fcznxzgv2j8g96pwsa7fzt0ca"
+			(at 234.95 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "8e82f09d-1268-4995-8fb3-e8c8a7c6f7aa")
 		)
@@ -8341,6 +8458,15 @@
 			)
 		)
 		(property "MOUSER#" "523-RJHSE-5381"
+			(at 53.34 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "IDAnything" "ak2rtrj5wwjn58jx1er1822wfh"
 			(at 53.34 83.82 0)
 			(effects
 				(font
