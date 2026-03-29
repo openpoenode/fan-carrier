@@ -5655,7 +5655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "openPoENode:119A-80A00-R02"
+		(property "Footprint" "openPoeNode:119A-80A00-R02"
 			(at 142.24 81.28 0)
 			(effects
 				(font
@@ -8684,7 +8684,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "openPoENode:119A-NUT-80-R02"
+		(property "Footprint" "openPoeNode:119A-NUT-80-R02"
 			(at 158.75 125.73 0)
 			(effects
 				(font
