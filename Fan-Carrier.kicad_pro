@@ -77,7 +77,7 @@
           ""
         ],
         [
-          "padstack|32500000|-1350000|8af3bb99-9c93-4e60-baa7-4736bafe0699|00000000-0000-0000-0000-000000000000",
+          "padstack|32500000|-1350000|fcf63143-82e6-41a0-b2f6-e36681841289|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -90,10 +90,6 @@
         ],
         [
           "silk_edge_clearance|9635000|-32000000|fdec4f45-c791-441f-9d58-450a765a1986|657e705c-1105-4125-9d83-f85d3dc18fe4",
-          ""
-        ],
-        [
-          "silk_overlap|78142580|-15428571|539d1e9e-583e-41c1-a9fe-49b4ef015139|f0a4c97b-8403-4992-ab76-45a2507f7b00",
           ""
         ],
         [
@@ -498,7 +494,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -708,7 +704,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "",
+    "page_layout_descr_file": "..\\..\\Design\\openPoeNode.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
@@ -726,5 +722,7 @@
       "Root"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "REVISION": "0.1"
+  }
 }
